@@ -1,0 +1,21 @@
+.ranks {
+    font-size: 40px;
+    position: absolute;
+    left: 730px;
+    padding-bottom: 20px;
+    margin-top: -15px;
+}
+
+.files {
+    font-size: 40px;
+    position: absolute;
+    top: 720px;
+}
+
+.analyse__tools {
+    margin-left: 20px
+}
+
+.analyse__underboard {
+    display: none;
+}
