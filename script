@@ -13,9 +13,13 @@
 }
 
 .analyse__tools {
-    margin-left: 20px
+    margin-left: 60px
 }
 
 .analyse__underboard {
-    display: none;
+    margin-top: 100px !important;
+}
+
+.analyse__controls{
+    margin-left: 60px;
 }
